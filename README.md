@@ -1,3 +1,3 @@
 ## Project Report
 
-You can download the detailed project report [here]((https://github.com/SRIKARA-BHARADWAJ/EXG-acquisition-system/blob/main/UG%20Project%20Report%20R22%20Copy.pdf)).
+You can download the detailed project report [UG Project Report R22 Copy.pdf](./UG Project Report R22 Copy.pdf).
